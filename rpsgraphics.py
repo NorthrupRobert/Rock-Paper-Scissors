@@ -54,7 +54,7 @@ def TitleScreen():
                                    |_|                                                      
 
 """)
-	print("Dun, dun, DUUUUUUN!")
+	print("(Dun, dun, DUUUUUUN!)")
 	sleep(2)
 
 def prep():
@@ -75,7 +75,7 @@ def prep():
 	sleep(.5)
 	clear()
 	rru()
-	sleep(1)
+	sleep(.7)
 	clear()
 
 def exp():
